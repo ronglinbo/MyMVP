@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    
+    <color name="black">#000000</color>
+    <color name="green">#81D741</color>
+    <color name="yellow">#FFCE44</color>
+
+
+
+
+    <color name="tab_color">#F8F8F8</color>
+    <!-- 蓝色字体 -->
+    <color name="font_blue">#01afef</color>
+    <!-- 深灰色字体 -->
+    <color name="font_darkgray">#868686</color>
+
+    <!-- 深蓝色字体 -->
+    <color name="font_darkblue">#007aff</color>
+
+
+</resources>
