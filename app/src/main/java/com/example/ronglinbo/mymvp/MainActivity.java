@@ -20,6 +20,8 @@ import com.example.ronglinbo.mymvp.view.IGirlView;
 
 public class MainActivity extends BaseActivity<IGirlView,CommonPresenter<IGirlView>> implements IGirlView,OKListener{
 
+    //测试一波
+
     String TAG="MainActivityTAG";
     
     ActivityMainBinding binding;
